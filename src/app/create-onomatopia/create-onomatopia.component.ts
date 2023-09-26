@@ -15,5 +15,5 @@ export class CreateOnomatopiaComponent {
       this.newOnomatopia = '';
     }
   }
-
+  
 }
